@@ -2,4 +2,4 @@
 .terraform
 terraform.tfstate
 terraform.tfstate.*
-/tf_generated
+/build
